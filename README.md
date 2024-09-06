@@ -1,4 +1,5 @@
 **Official Repository of the Paper**: **_HuLLMI: Human vs. LLM Identification with Explainability_**
+
 Welcome to the official repository for the paper _"HULLMI: Human vs. LLM Identification with Explainability."_ This repository contains the datasets used in our study, including our self-curated dataset, as well as the code used for various machine learning models.
 
 Repository Contents
@@ -12,9 +13,11 @@ The code for traditional machine learning models (excluding LSTM) can be found i
 
 For LSTM, T5-Sentinel, and RoBERTa-Sentinel models, refer to the LSTM_T5_Sentinel_and_Roberta_Sentinel_T5_Sentinel_ROC_DET.ipynb notebook.
 For detailed code snippets of the RoBERTa-Sentinel model, check the HuLLMI_Roberta_Sentinel_.ipynb notebook.
-Plot Generation:
+
+**Plot Generation**:
 
 We've included additional code snippets used for plot generation. Please review the relevant sections for more details.
+
 Note: To view the LIME plots from our study, please open the notebooks in Google Colab or Jupyter Notebook.
 
 ---------------------------**ABSTRACT**--------------------------------
