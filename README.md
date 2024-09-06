@@ -19,6 +19,8 @@ For detailed code snippets of the RoBERTa-Sentinel model, check the HuLLMI_Rober
 
 We've included additional code snippets used for plot generation. Please review the relevant sections for more details.
 
+Detailed Sample Can Be Found in the Repo as mentioned in Paper 
+
 Note: To view the LIME plots from our study, please open the notebooks in Google Colab or Jupyter Notebook.
 
 ---------------------------**ABSTRACT**--------------------------------
