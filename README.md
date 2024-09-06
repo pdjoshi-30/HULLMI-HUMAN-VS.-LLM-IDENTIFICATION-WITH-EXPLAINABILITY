@@ -1,10 +1,23 @@
-This Repository is Official Repository of the Paper 'HULLMI: HUMAN VS. LLM IDENTIFICATION WITH EXPLAINABILITY'.
-Repo Contains the Dataset used for the Study along with our self curated Dataset.
-Code for Traditional ML Models except LSTM can by check by downloading zip file of HuLLMI Traditional Models Notebook, For LSTM , T5-Sentinel, Roberta-Sentinel HuLLMI_LSTM.... Notebook can be checked.
-For Detail Code Snippet OF RoBertA-Sentinel , HuLLMI_Roberta_Sentinel Notebook can be checked.
-We had additionally included snippets that we used for plot generation ,please have a look on thst.
+**Official Repository of the Paper**:_** HuLLMI: Human vs. LLM Identification with Explainability**__
+Welcome to the official repository for the paper _"HULLMI: Human vs. LLM Identification with Explainability."_ This repository contains the datasets used in our study, including our self-curated dataset, as well as the code used for various machine learning models.
 
-############################ABSTRACT####################
+Repository Contents
+**Datasets**: The datasets used for our study, including the curated dataset, are available in this repository.
+
+**Traditional Machine Learning Models**:
+
+The code for traditional machine learning models (excluding LSTM) can be found in the HuLLMI_Paper_ML_Traditional_Model.ipynb notebook, which you can access by downloading the provided ZIP file.
+
+**Advance Deep Learning Models**:
+
+For LSTM, T5-Sentinel, and RoBERTa-Sentinel models, refer to the LSTM_T5_Sentinel_and_Roberta_Sentinel_T5_Sentinel_ROC_DET.ipynb notebook.
+For detailed code snippets of the RoBERTa-Sentinel model, check the HuLLMI_Roberta_Sentinel_.ipynb notebook.
+Plot Generation:
+
+We've included additional code snippets used for plot generation. Please review the relevant sections for more details.
+Note: To view the LIME plots from our study, please open the notebooks in Google Colab or Jupyter Notebook.
+
+---------------------------**ABSTRACT**--------------------------------
 
 As LLMs become increasingly proficient at producing human-like responses, there has been a rise of
 academic and industrial pursuits dedicated to flagging a given piece of text as "human" or "AI". Most
@@ -20,7 +33,7 @@ LLM detection tools, which can leverage a wide range of traditional as well as m
 we propose. Finally, the LIME techniques we demonstrate also have the potential to equip these
 detection tools with interpretability analysis features, making them more reliable and trustworthy in
 various domains like education, healthcare and media.
-#######################################################
+-----------------------------------------------------------------------------------------------------
 
 
 This work is Collectively Done by Prathamesh Dinesh Joshi, Sahil Pocker, Raj Abhijit Dandekar, Rajat Dandekar and Sreedath Panat
